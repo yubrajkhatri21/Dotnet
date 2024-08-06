@@ -1,0 +1,14 @@
+F:\New folder\SumofDigits\bin\Debug\net8.0\SumofDigits.exe
+F:\New folder\SumofDigits\bin\Debug\net8.0\SumofDigits.deps.json
+F:\New folder\SumofDigits\bin\Debug\net8.0\SumofDigits.runtimeconfig.json
+F:\New folder\SumofDigits\bin\Debug\net8.0\SumofDigits.dll
+F:\New folder\SumofDigits\bin\Debug\net8.0\SumofDigits.pdb
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.AssemblyInfoInputs.cache
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.AssemblyInfo.cs
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.csproj.CoreCompileInputs.cache
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.dll
+F:\New folder\SumofDigits\obj\Debug\net8.0\refint\SumofDigits.dll
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.pdb
+F:\New folder\SumofDigits\obj\Debug\net8.0\SumofDigits.genruntimeconfig.cache
+F:\New folder\SumofDigits\obj\Debug\net8.0\ref\SumofDigits.dll

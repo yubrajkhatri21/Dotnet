@@ -1,0 +1,14 @@
+F:\New folder\largest\bin\Debug\net8.0\largest.exe
+F:\New folder\largest\bin\Debug\net8.0\largest.deps.json
+F:\New folder\largest\bin\Debug\net8.0\largest.runtimeconfig.json
+F:\New folder\largest\bin\Debug\net8.0\largest.dll
+F:\New folder\largest\bin\Debug\net8.0\largest.pdb
+F:\New folder\largest\obj\Debug\net8.0\largest.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\largest\obj\Debug\net8.0\largest.AssemblyInfoInputs.cache
+F:\New folder\largest\obj\Debug\net8.0\largest.AssemblyInfo.cs
+F:\New folder\largest\obj\Debug\net8.0\largest.csproj.CoreCompileInputs.cache
+F:\New folder\largest\obj\Debug\net8.0\largest.dll
+F:\New folder\largest\obj\Debug\net8.0\refint\largest.dll
+F:\New folder\largest\obj\Debug\net8.0\largest.pdb
+F:\New folder\largest\obj\Debug\net8.0\largest.genruntimeconfig.cache
+F:\New folder\largest\obj\Debug\net8.0\ref\largest.dll

@@ -1,0 +1,14 @@
+F:\New folder\sum\bin\Debug\net8.0\sum.exe
+F:\New folder\sum\bin\Debug\net8.0\sum.deps.json
+F:\New folder\sum\bin\Debug\net8.0\sum.runtimeconfig.json
+F:\New folder\sum\bin\Debug\net8.0\sum.dll
+F:\New folder\sum\bin\Debug\net8.0\sum.pdb
+F:\New folder\sum\obj\Debug\net8.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\sum\obj\Debug\net8.0\sum.AssemblyInfoInputs.cache
+F:\New folder\sum\obj\Debug\net8.0\sum.AssemblyInfo.cs
+F:\New folder\sum\obj\Debug\net8.0\sum.csproj.CoreCompileInputs.cache
+F:\New folder\sum\obj\Debug\net8.0\sum.dll
+F:\New folder\sum\obj\Debug\net8.0\refint\sum.dll
+F:\New folder\sum\obj\Debug\net8.0\sum.pdb
+F:\New folder\sum\obj\Debug\net8.0\sum.genruntimeconfig.cache
+F:\New folder\sum\obj\Debug\net8.0\ref\sum.dll

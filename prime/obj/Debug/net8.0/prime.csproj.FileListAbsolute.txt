@@ -1,0 +1,14 @@
+F:\New folder\prime\bin\Debug\net8.0\prime.exe
+F:\New folder\prime\bin\Debug\net8.0\prime.deps.json
+F:\New folder\prime\bin\Debug\net8.0\prime.runtimeconfig.json
+F:\New folder\prime\bin\Debug\net8.0\prime.dll
+F:\New folder\prime\bin\Debug\net8.0\prime.pdb
+F:\New folder\prime\obj\Debug\net8.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\prime\obj\Debug\net8.0\prime.AssemblyInfoInputs.cache
+F:\New folder\prime\obj\Debug\net8.0\prime.AssemblyInfo.cs
+F:\New folder\prime\obj\Debug\net8.0\prime.csproj.CoreCompileInputs.cache
+F:\New folder\prime\obj\Debug\net8.0\prime.dll
+F:\New folder\prime\obj\Debug\net8.0\refint\prime.dll
+F:\New folder\prime\obj\Debug\net8.0\prime.pdb
+F:\New folder\prime\obj\Debug\net8.0\prime.genruntimeconfig.cache
+F:\New folder\prime\obj\Debug\net8.0\ref\prime.dll

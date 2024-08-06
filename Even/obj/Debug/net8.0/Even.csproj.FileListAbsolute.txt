@@ -1,0 +1,14 @@
+F:\New folder\Even\bin\Debug\net8.0\Even.exe
+F:\New folder\Even\bin\Debug\net8.0\Even.deps.json
+F:\New folder\Even\bin\Debug\net8.0\Even.runtimeconfig.json
+F:\New folder\Even\bin\Debug\net8.0\Even.dll
+F:\New folder\Even\bin\Debug\net8.0\Even.pdb
+F:\New folder\Even\obj\Debug\net8.0\Even.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\Even\obj\Debug\net8.0\Even.AssemblyInfoInputs.cache
+F:\New folder\Even\obj\Debug\net8.0\Even.AssemblyInfo.cs
+F:\New folder\Even\obj\Debug\net8.0\Even.csproj.CoreCompileInputs.cache
+F:\New folder\Even\obj\Debug\net8.0\Even.dll
+F:\New folder\Even\obj\Debug\net8.0\refint\Even.dll
+F:\New folder\Even\obj\Debug\net8.0\Even.pdb
+F:\New folder\Even\obj\Debug\net8.0\Even.genruntimeconfig.cache
+F:\New folder\Even\obj\Debug\net8.0\ref\Even.dll

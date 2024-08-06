@@ -1,0 +1,14 @@
+F:\New folder\factorial\bin\Debug\net8.0\factorial.exe
+F:\New folder\factorial\bin\Debug\net8.0\factorial.deps.json
+F:\New folder\factorial\bin\Debug\net8.0\factorial.runtimeconfig.json
+F:\New folder\factorial\bin\Debug\net8.0\factorial.dll
+F:\New folder\factorial\bin\Debug\net8.0\factorial.pdb
+F:\New folder\factorial\obj\Debug\net8.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\factorial\obj\Debug\net8.0\factorial.AssemblyInfoInputs.cache
+F:\New folder\factorial\obj\Debug\net8.0\factorial.AssemblyInfo.cs
+F:\New folder\factorial\obj\Debug\net8.0\factorial.csproj.CoreCompileInputs.cache
+F:\New folder\factorial\obj\Debug\net8.0\factorial.dll
+F:\New folder\factorial\obj\Debug\net8.0\refint\factorial.dll
+F:\New folder\factorial\obj\Debug\net8.0\factorial.pdb
+F:\New folder\factorial\obj\Debug\net8.0\factorial.genruntimeconfig.cache
+F:\New folder\factorial\obj\Debug\net8.0\ref\factorial.dll

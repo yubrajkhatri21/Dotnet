@@ -1,0 +1,14 @@
+F:\New folder\Ford\bin\Debug\net8.0\Ford.exe
+F:\New folder\Ford\bin\Debug\net8.0\Ford.deps.json
+F:\New folder\Ford\bin\Debug\net8.0\Ford.runtimeconfig.json
+F:\New folder\Ford\bin\Debug\net8.0\Ford.dll
+F:\New folder\Ford\bin\Debug\net8.0\Ford.pdb
+F:\New folder\Ford\obj\Debug\net8.0\Ford.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\Ford\obj\Debug\net8.0\Ford.AssemblyInfoInputs.cache
+F:\New folder\Ford\obj\Debug\net8.0\Ford.AssemblyInfo.cs
+F:\New folder\Ford\obj\Debug\net8.0\Ford.csproj.CoreCompileInputs.cache
+F:\New folder\Ford\obj\Debug\net8.0\Ford.dll
+F:\New folder\Ford\obj\Debug\net8.0\refint\Ford.dll
+F:\New folder\Ford\obj\Debug\net8.0\Ford.pdb
+F:\New folder\Ford\obj\Debug\net8.0\Ford.genruntimeconfig.cache
+F:\New folder\Ford\obj\Debug\net8.0\ref\Ford.dll

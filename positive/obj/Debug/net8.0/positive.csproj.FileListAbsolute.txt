@@ -1,0 +1,14 @@
+F:\New folder\positive\bin\Debug\net8.0\positive.exe
+F:\New folder\positive\bin\Debug\net8.0\positive.deps.json
+F:\New folder\positive\bin\Debug\net8.0\positive.runtimeconfig.json
+F:\New folder\positive\bin\Debug\net8.0\positive.dll
+F:\New folder\positive\bin\Debug\net8.0\positive.pdb
+F:\New folder\positive\obj\Debug\net8.0\positive.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\positive\obj\Debug\net8.0\positive.AssemblyInfoInputs.cache
+F:\New folder\positive\obj\Debug\net8.0\positive.AssemblyInfo.cs
+F:\New folder\positive\obj\Debug\net8.0\positive.csproj.CoreCompileInputs.cache
+F:\New folder\positive\obj\Debug\net8.0\positive.dll
+F:\New folder\positive\obj\Debug\net8.0\refint\positive.dll
+F:\New folder\positive\obj\Debug\net8.0\positive.pdb
+F:\New folder\positive\obj\Debug\net8.0\positive.genruntimeconfig.cache
+F:\New folder\positive\obj\Debug\net8.0\ref\positive.dll
