@@ -1,46 +1,45 @@
-﻿// Online C# Editor for free
-// Write, Edit and Run your C# code using C# Online Compiler
+﻿using System;
 
-using System;
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a string to check if it is a palindrome:");
+        string input = Console.ReadLine();
 
-public class Animal{
-    public void eat(){
-        System.Console.WriteLine("waam waam");
-    }
-}
-
-class Dog : Animal{
-    public void eat(){
-        System.Console.WriteLine("peadegree");
-    }
-    
-    public void eat(int a){
-        System.Console.WriteLine("dog walked"+" "+a);
-    }
-    
-}
-
-class Cat : Animal{
-    public void eat(int num){
-        for(int i=0;i<num;i++){
-            System.Console.WriteLine("fish");
+        if (IsPalindrome(input))
+        {
+            Console.WriteLine($"\"{input}\" is a palindrome.");
+        }
+        else
+        {
+            Console.WriteLine($"\"{input}\" is not a palindrome.");
         }
     }
-}
 
-public class HelloWorld
-{
-    public static void Main(string[] args)
+    static bool IsPalindrome(string str)
     {
-        Animal myAnimal = new Animal();
-        myAnimal.eat();
-        
-        Dog myDog = new Dog();
-        myDog.eat();
-        myDog.eat(3);
-        
-        Cat myCat= new Cat();
-        myCat.eat(3);
-        
+        // Convert the string to lowercase and remove any non-alphanumeric characters
+        str = str.ToLower();
+        string cleanedStr = "";
+
+        foreach (char c in str)
+        {
+            if (char.IsLetterOrDigit(c))
+            {
+                cleanedStr += c;
+            }
+        }
+
+        // Check if the cleaned string is a palindrome
+        int length = cleanedStr.Length;
+        for (int i = 0; i < length / 2; i++)
+        {
+            if (cleanedStr[i] != cleanedStr[length - i - 1])
+            {
+                return false;
+            }
+        }
+        return true;
     }
 }

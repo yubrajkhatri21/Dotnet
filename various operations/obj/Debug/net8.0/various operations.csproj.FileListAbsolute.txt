@@ -12,3 +12,4 @@ F:\New folder\various operations\obj\Debug\net8.0\refint\various operations.dll
 F:\New folder\various operations\obj\Debug\net8.0\various operations.pdb
 F:\New folder\various operations\obj\Debug\net8.0\various operations.genruntimeconfig.cache
 F:\New folder\various operations\obj\Debug\net8.0\ref\various operations.dll
+F:\New folder\various operations\obj\Debug\net8.0\various operations.sourcelink.json

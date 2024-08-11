@@ -1,0 +1,15 @@
+F:\New folder\increment and decrement\bin\Debug\net8.0\increment and decrement.exe
+F:\New folder\increment and decrement\bin\Debug\net8.0\increment and decrement.deps.json
+F:\New folder\increment and decrement\bin\Debug\net8.0\increment and decrement.runtimeconfig.json
+F:\New folder\increment and decrement\bin\Debug\net8.0\increment and decrement.dll
+F:\New folder\increment and decrement\bin\Debug\net8.0\increment and decrement.pdb
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.AssemblyInfoInputs.cache
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.AssemblyInfo.cs
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.csproj.CoreCompileInputs.cache
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.sourcelink.json
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.dll
+F:\New folder\increment and decrement\obj\Debug\net8.0\refint\increment and decrement.dll
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.pdb
+F:\New folder\increment and decrement\obj\Debug\net8.0\increment and decrement.genruntimeconfig.cache
+F:\New folder\increment and decrement\obj\Debug\net8.0\ref\increment and decrement.dll

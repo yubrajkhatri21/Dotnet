@@ -1,0 +1,15 @@
+F:\New folder\Boolean\bin\Debug\net8.0\Boolean.exe
+F:\New folder\Boolean\bin\Debug\net8.0\Boolean.deps.json
+F:\New folder\Boolean\bin\Debug\net8.0\Boolean.runtimeconfig.json
+F:\New folder\Boolean\bin\Debug\net8.0\Boolean.dll
+F:\New folder\Boolean\bin\Debug\net8.0\Boolean.pdb
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfoInputs.cache
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.AssemblyInfo.cs
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.csproj.CoreCompileInputs.cache
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.sourcelink.json
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.dll
+F:\New folder\Boolean\obj\Debug\net8.0\refint\Boolean.dll
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.pdb
+F:\New folder\Boolean\obj\Debug\net8.0\Boolean.genruntimeconfig.cache
+F:\New folder\Boolean\obj\Debug\net8.0\ref\Boolean.dll

@@ -12,3 +12,4 @@ F:\New folder\multiple of 3\obj\Debug\net8.0\refint\multiple of 3.dll
 F:\New folder\multiple of 3\obj\Debug\net8.0\multiple of 3.pdb
 F:\New folder\multiple of 3\obj\Debug\net8.0\multiple of 3.genruntimeconfig.cache
 F:\New folder\multiple of 3\obj\Debug\net8.0\ref\multiple of 3.dll
+F:\New folder\multiple of 3\obj\Debug\net8.0\multiple of 3.sourcelink.json

@@ -12,3 +12,4 @@ F:\New folder\negative enter\obj\Debug\net8.0\refint\negative enter.dll
 F:\New folder\negative enter\obj\Debug\net8.0\negative enter.pdb
 F:\New folder\negative enter\obj\Debug\net8.0\negative enter.genruntimeconfig.cache
 F:\New folder\negative enter\obj\Debug\net8.0\ref\negative enter.dll
+F:\New folder\negative enter\obj\Debug\net8.0\negative enter.sourcelink.json

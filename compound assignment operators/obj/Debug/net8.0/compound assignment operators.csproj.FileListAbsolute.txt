@@ -1,0 +1,15 @@
+F:\New folder\compound assignment operators\bin\Debug\net8.0\compound assignment operators.exe
+F:\New folder\compound assignment operators\bin\Debug\net8.0\compound assignment operators.deps.json
+F:\New folder\compound assignment operators\bin\Debug\net8.0\compound assignment operators.runtimeconfig.json
+F:\New folder\compound assignment operators\bin\Debug\net8.0\compound assignment operators.dll
+F:\New folder\compound assignment operators\bin\Debug\net8.0\compound assignment operators.pdb
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.AssemblyInfoInputs.cache
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.AssemblyInfo.cs
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.csproj.CoreCompileInputs.cache
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.sourcelink.json
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.dll
+F:\New folder\compound assignment operators\obj\Debug\net8.0\refint\compound assignment operators.dll
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.pdb
+F:\New folder\compound assignment operators\obj\Debug\net8.0\compound assignment operators.genruntimeconfig.cache
+F:\New folder\compound assignment operators\obj\Debug\net8.0\ref\compound assignment operators.dll

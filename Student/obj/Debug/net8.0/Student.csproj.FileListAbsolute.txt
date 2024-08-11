@@ -12,3 +12,4 @@ F:\New folder\Student\obj\Debug\net8.0\refint\Student.dll
 F:\New folder\Student\obj\Debug\net8.0\Student.pdb
 F:\New folder\Student\obj\Debug\net8.0\Student.genruntimeconfig.cache
 F:\New folder\Student\obj\Debug\net8.0\ref\Student.dll
+F:\New folder\Student\obj\Debug\net8.0\Student.sourcelink.json

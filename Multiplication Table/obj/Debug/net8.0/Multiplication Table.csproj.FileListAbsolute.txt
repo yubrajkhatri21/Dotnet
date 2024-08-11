@@ -12,3 +12,4 @@ F:\New folder\Multiplication Table\obj\Debug\net8.0\refint\Multiplication Table.
 F:\New folder\Multiplication Table\obj\Debug\net8.0\Multiplication Table.pdb
 F:\New folder\Multiplication Table\obj\Debug\net8.0\Multiplication Table.genruntimeconfig.cache
 F:\New folder\Multiplication Table\obj\Debug\net8.0\ref\Multiplication Table.dll
+F:\New folder\Multiplication Table\obj\Debug\net8.0\Multiplication Table.sourcelink.json

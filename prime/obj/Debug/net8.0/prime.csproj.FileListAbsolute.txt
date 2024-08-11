@@ -12,3 +12,4 @@ F:\New folder\prime\obj\Debug\net8.0\refint\prime.dll
 F:\New folder\prime\obj\Debug\net8.0\prime.pdb
 F:\New folder\prime\obj\Debug\net8.0\prime.genruntimeconfig.cache
 F:\New folder\prime\obj\Debug\net8.0\ref\prime.dll
+F:\New folder\prime\obj\Debug\net8.0\prime.sourcelink.json

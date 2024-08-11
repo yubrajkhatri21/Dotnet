@@ -12,3 +12,4 @@ F:\New folder\positive\obj\Debug\net8.0\refint\positive.dll
 F:\New folder\positive\obj\Debug\net8.0\positive.pdb
 F:\New folder\positive\obj\Debug\net8.0\positive.genruntimeconfig.cache
 F:\New folder\positive\obj\Debug\net8.0\ref\positive.dll
+F:\New folder\positive\obj\Debug\net8.0\positive.sourcelink.json

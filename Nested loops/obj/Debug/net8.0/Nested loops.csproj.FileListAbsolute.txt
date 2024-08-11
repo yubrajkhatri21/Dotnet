@@ -12,3 +12,4 @@ F:\New folder\Nested loops\obj\Debug\net8.0\refint\Nested loops.dll
 F:\New folder\Nested loops\obj\Debug\net8.0\Nested loops.pdb
 F:\New folder\Nested loops\obj\Debug\net8.0\Nested loops.genruntimeconfig.cache
 F:\New folder\Nested loops\obj\Debug\net8.0\ref\Nested loops.dll
+F:\New folder\Nested loops\obj\Debug\net8.0\Nested loops.sourcelink.json

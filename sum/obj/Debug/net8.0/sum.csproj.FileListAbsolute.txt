@@ -12,3 +12,4 @@ F:\New folder\sum\obj\Debug\net8.0\refint\sum.dll
 F:\New folder\sum\obj\Debug\net8.0\sum.pdb
 F:\New folder\sum\obj\Debug\net8.0\sum.genruntimeconfig.cache
 F:\New folder\sum\obj\Debug\net8.0\ref\sum.dll
+F:\New folder\sum\obj\Debug\net8.0\sum.sourcelink.json

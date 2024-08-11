@@ -12,3 +12,4 @@ F:\New folder\largest\obj\Debug\net8.0\refint\largest.dll
 F:\New folder\largest\obj\Debug\net8.0\largest.pdb
 F:\New folder\largest\obj\Debug\net8.0\largest.genruntimeconfig.cache
 F:\New folder\largest\obj\Debug\net8.0\ref\largest.dll
+F:\New folder\largest\obj\Debug\net8.0\largest.sourcelink.json

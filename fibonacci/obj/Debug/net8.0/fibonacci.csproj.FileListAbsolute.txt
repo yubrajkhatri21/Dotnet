@@ -12,3 +12,4 @@ F:\New folder\fibonacci\obj\Debug\net8.0\refint\fibonacci.dll
 F:\New folder\fibonacci\obj\Debug\net8.0\fibonacci.pdb
 F:\New folder\fibonacci\obj\Debug\net8.0\fibonacci.genruntimeconfig.cache
 F:\New folder\fibonacci\obj\Debug\net8.0\ref\fibonacci.dll
+F:\New folder\fibonacci\obj\Debug\net8.0\fibonacci.sourcelink.json

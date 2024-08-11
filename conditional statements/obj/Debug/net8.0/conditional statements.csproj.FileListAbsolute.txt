@@ -12,3 +12,4 @@ F:\New folder\conditional statements\obj\Debug\net8.0\refint\conditional stateme
 F:\New folder\conditional statements\obj\Debug\net8.0\conditional statements.pdb
 F:\New folder\conditional statements\obj\Debug\net8.0\conditional statements.genruntimeconfig.cache
 F:\New folder\conditional statements\obj\Debug\net8.0\ref\conditional statements.dll
+F:\New folder\conditional statements\obj\Debug\net8.0\conditional statements.sourcelink.json

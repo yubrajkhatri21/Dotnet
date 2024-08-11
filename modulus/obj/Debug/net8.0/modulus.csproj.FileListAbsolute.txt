@@ -1,0 +1,15 @@
+F:\New folder\modulus\bin\Debug\net8.0\modulus.exe
+F:\New folder\modulus\bin\Debug\net8.0\modulus.deps.json
+F:\New folder\modulus\bin\Debug\net8.0\modulus.runtimeconfig.json
+F:\New folder\modulus\bin\Debug\net8.0\modulus.dll
+F:\New folder\modulus\bin\Debug\net8.0\modulus.pdb
+F:\New folder\modulus\obj\Debug\net8.0\modulus.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\modulus\obj\Debug\net8.0\modulus.AssemblyInfoInputs.cache
+F:\New folder\modulus\obj\Debug\net8.0\modulus.AssemblyInfo.cs
+F:\New folder\modulus\obj\Debug\net8.0\modulus.csproj.CoreCompileInputs.cache
+F:\New folder\modulus\obj\Debug\net8.0\modulus.sourcelink.json
+F:\New folder\modulus\obj\Debug\net8.0\modulus.dll
+F:\New folder\modulus\obj\Debug\net8.0\refint\modulus.dll
+F:\New folder\modulus\obj\Debug\net8.0\modulus.pdb
+F:\New folder\modulus\obj\Debug\net8.0\modulus.genruntimeconfig.cache
+F:\New folder\modulus\obj\Debug\net8.0\ref\modulus.dll

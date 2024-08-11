@@ -12,3 +12,4 @@ F:\New folder\Day of the Week\obj\Debug\net8.0\refint\Day of the Week.dll
 F:\New folder\Day of the Week\obj\Debug\net8.0\Day of the Week.pdb
 F:\New folder\Day of the Week\obj\Debug\net8.0\Day of the Week.genruntimeconfig.cache
 F:\New folder\Day of the Week\obj\Debug\net8.0\ref\Day of the Week.dll
+F:\New folder\Day of the Week\obj\Debug\net8.0\Day of the Week.sourcelink.json

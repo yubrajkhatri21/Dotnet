@@ -12,3 +12,4 @@ F:\New folder\reverse string\obj\Debug\net8.0\refint\reverse string.dll
 F:\New folder\reverse string\obj\Debug\net8.0\reverse string.pdb
 F:\New folder\reverse string\obj\Debug\net8.0\reverse string.genruntimeconfig.cache
 F:\New folder\reverse string\obj\Debug\net8.0\ref\reverse string.dll
+F:\New folder\reverse string\obj\Debug\net8.0\reverse string.sourcelink.json

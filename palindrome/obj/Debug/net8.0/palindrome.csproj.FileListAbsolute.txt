@@ -12,3 +12,4 @@ F:\New folder\palindrome\obj\Debug\net8.0\refint\palindrome.dll
 F:\New folder\palindrome\obj\Debug\net8.0\palindrome.pdb
 F:\New folder\palindrome\obj\Debug\net8.0\palindrome.genruntimeconfig.cache
 F:\New folder\palindrome\obj\Debug\net8.0\ref\palindrome.dll
+F:\New folder\palindrome\obj\Debug\net8.0\palindrome.sourcelink.json

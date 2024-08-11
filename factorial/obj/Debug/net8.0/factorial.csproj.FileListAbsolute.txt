@@ -12,3 +12,4 @@ F:\New folder\factorial\obj\Debug\net8.0\refint\factorial.dll
 F:\New folder\factorial\obj\Debug\net8.0\factorial.pdb
 F:\New folder\factorial\obj\Debug\net8.0\factorial.genruntimeconfig.cache
 F:\New folder\factorial\obj\Debug\net8.0\ref\factorial.dll
+F:\New folder\factorial\obj\Debug\net8.0\factorial.sourcelink.json

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bitwise Operators/1.0.0": {
+        "runtime": {
+          "Bitwise Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitwise Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

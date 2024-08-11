@@ -12,3 +12,4 @@ F:\New folder\Even\obj\Debug\net8.0\refint\Even.dll
 F:\New folder\Even\obj\Debug\net8.0\Even.pdb
 F:\New folder\Even\obj\Debug\net8.0\Even.genruntimeconfig.cache
 F:\New folder\Even\obj\Debug\net8.0\ref\Even.dll
+F:\New folder\Even\obj\Debug\net8.0\Even.sourcelink.json
