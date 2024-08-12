@@ -3,65 +3,63 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{210E2C1E-B756-42AF-8EB3-2B16F214E37F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello World", "Hello World\Hello World.csproj", "{0598E619-EF0A-4428-9BEA-41F5B2D28C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{0598E619-EF0A-4428-9BEA-41F5B2D28C02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sum", "sum\sum.csproj", "{856BDDB2-DEA6-4F85-B8EC-54EB711CE2E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum", "sum\sum.csproj", "{856BDDB2-DEA6-4F85-B8EC-54EB711CE2E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "largest", "largest\largest.csproj", "{33C50A9A-0221-4DB9-A358-F7B300216649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "largest", "largest\largest.csproj", "{33C50A9A-0221-4DB9-A358-F7B300216649}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "factorial", "factorial\factorial.csproj", "{DB2C725B-5B1F-4CAB-B661-89A6DAD8E322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorial", "factorial\factorial.csproj", "{DB2C725B-5B1F-4CAB-B661-89A6DAD8E322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindrome", "palindrome\palindrome.csproj", "{DE8D1441-FEFF-4F33-82CD-BF66903356AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{DE8D1441-FEFF-4F33-82CD-BF66903356AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacci", "fibonacci\fibonacci.csproj", "{AD064911-64AE-478B-A3B8-18A8D12D70B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{AD064911-64AE-478B-A3B8-18A8D12D70B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculator", "calculator\calculator.csproj", "{2E52334A-6794-4D69-805B-A3A7D1FEDBA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator\calculator.csproj", "{2E52334A-6794-4D69-805B-A3A7D1FEDBA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array", "array\array.csproj", "{6B1E476F-B6AC-45AE-ADDE-8EBAC1A6F063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array", "array\array.csproj", "{6B1E476F-B6AC-45AE-ADDE-8EBAC1A6F063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverse string", "reverse string\reverse string.csproj", "{1E321AA0-52CD-4383-9F19-641AA936E6BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse string", "reverse string\reverse string.csproj", "{1E321AA0-52CD-4383-9F19-641AA936E6BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prime", "prime\prime.csproj", "{AB3065C5-A91C-4377-96D0-776E8B18A5DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prime", "prime\prime.csproj", "{AB3065C5-A91C-4377-96D0-776E8B18A5DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "positive", "positive\positive.csproj", "{A9E5CDA8-401E-4D31-8F89-8ED566A4ADB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "positive", "positive\positive.csproj", "{A9E5CDA8-401E-4D31-8F89-8ED566A4ADB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day of the Week", "Day of the Week\Day of the Week.csproj", "{29ADFA96-E6B4-41DD-918A-9BC75373A358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of the Week", "Day of the Week\Day of the Week.csproj", "{29ADFA96-E6B4-41DD-918A-9BC75373A358}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{DE817400-EEDD-49B4-8533-6EA6C5242AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication Table", "Multiplication Table\Multiplication Table.csproj", "{DE817400-EEDD-49B4-8533-6EA6C5242AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even", "Even\Even.csproj", "{F63977FE-B78A-4DA8-9CC0-73BBD14A797B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even", "Even\Even.csproj", "{F63977FE-B78A-4DA8-9CC0-73BBD14A797B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "negative enter", "negative enter\negative enter.csproj", "{8040CBA3-6969-438A-898E-E973BCC59335}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negative enter", "negative enter\negative enter.csproj", "{8040CBA3-6969-438A-898E-E973BCC59335}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested loops", "Nested loops\Nested loops.csproj", "{0582AA2F-DC15-45B7-9CF0-B49C3D42F70A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested loops", "Nested loops\Nested loops.csproj", "{0582AA2F-DC15-45B7-9CF0-B49C3D42F70A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "multiple of 3", "multiple of 3\multiple of 3.csproj", "{8F26EC9D-9E74-40F9-8941-6D23D62AF684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiple of 3", "multiple of 3\multiple of 3.csproj", "{8F26EC9D-9E74-40F9-8941-6D23D62AF684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "various operations", "various operations\various operations.csproj", "{BC46CF28-0CD8-4EEE-ADDF-2F270B5E081E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "various operations", "various operations\various operations.csproj", "{BC46CF28-0CD8-4EEE-ADDF-2F270B5E081E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conditional statements", "conditional statements\conditional statements.csproj", "{33656863-2F97-44C8-8ABF-19104B45966E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional statements", "conditional statements\conditional statements.csproj", "{33656863-2F97-44C8-8ABF-19104B45966E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumofDigits", "SumofDigits\SumofDigits.csproj", "{06C0A922-58F2-4353-98CE-6B4D47896D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofDigits", "SumofDigits\SumofDigits.csproj", "{06C0A922-58F2-4353-98CE-6B4D47896D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ford", "Ford\Ford.csproj", "{202FBC04-77D5-485D-B365-1FB78DBBA3F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ford", "Ford\Ford.csproj", "{202FBC04-77D5-485D-B365-1FB78DBBA3F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student", "Student\Student.csproj", "{194C5A4E-9BF0-4C6B-A9A8-EA7C505C5058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{194C5A4E-9BF0-4C6B-A9A8-EA7C505C5058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{86459A32-9E0B-42E3-9637-B25314644FC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{86459A32-9E0B-42E3-9637-B25314644FC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "modulus", "modulus\modulus.csproj", "{1046E0EF-29D6-4185-897D-CA94411D8E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modulus", "modulus\modulus.csproj", "{1046E0EF-29D6-4185-897D-CA94411D8E34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "increment and decrement", "increment and decrement\increment and decrement.csproj", "{682F4F9F-D951-48FC-B21F-F74FC3927E8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "increment and decrement", "increment and decrement\increment and decrement.csproj", "{682F4F9F-D951-48FC-B21F-F74FC3927E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compound assignment operators", "compound assignment operators\compound assignment operators.csproj", "{07D21986-880A-460D-AA52-1D5F035E0B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compound assignment operators", "compound assignment operators\compound assignment operators.csproj", "{07D21986-880A-460D-AA52-1D5F035E0B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Relational Operators", "Relational Operators\Relational Operators.csproj", "{7A9C1FAB-96BF-4172-BF88-1216E1A4F265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relational Operators", "Relational Operators\Relational Operators.csproj", "{7A9C1FAB-96BF-4172-BF88-1216E1A4F265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boolean", "Boolean\Boolean.csproj", "{5972B458-F20C-4D4C-98B9-2EC2CBF9EA0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean", "Boolean\Boolean.csproj", "{5972B458-F20C-4D4C-98B9-2EC2CBF9EA0E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise Operators", "Bitwise Operators\Bitwise Operators.csproj", "{84CC1939-7DAC-4DC0-892B-69D93F34DC9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitwise Operators", "Bitwise Operators\Bitwise Operators.csproj", "{84CC1939-7DAC-4DC0-892B-69D93F34DC9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,10 +67,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{210E2C1E-B756-42AF-8EB3-2B16F214E37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{210E2C1E-B756-42AF-8EB3-2B16F214E37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{210E2C1E-B756-42AF-8EB3-2B16F214E37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{210E2C1E-B756-42AF-8EB3-2B16F214E37F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0598E619-EF0A-4428-9BEA-41F5B2D28C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0598E619-EF0A-4428-9BEA-41F5B2D28C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0598E619-EF0A-4428-9BEA-41F5B2D28C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
