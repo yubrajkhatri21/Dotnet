@@ -1,0 +1,15 @@
+F:\New folder\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+F:\New folder\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+F:\New folder\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+F:\New folder\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+F:\New folder\Struct\bin\Debug\net8.0\Struct.exe
+F:\New folder\Struct\bin\Debug\net8.0\Struct.deps.json
+F:\New folder\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+F:\New folder\Struct\bin\Debug\net8.0\Struct.dll
+F:\New folder\Struct\bin\Debug\net8.0\Struct.pdb
+F:\New folder\Struct\obj\Debug\net8.0\Struct.dll
+F:\New folder\Struct\obj\Debug\net8.0\refint\Struct.dll
+F:\New folder\Struct\obj\Debug\net8.0\Struct.pdb
+F:\New folder\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+F:\New folder\Struct\obj\Debug\net8.0\ref\Struct.dll
