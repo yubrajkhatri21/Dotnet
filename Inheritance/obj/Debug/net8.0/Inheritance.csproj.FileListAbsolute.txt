@@ -1,0 +1,15 @@
+F:\New folder\Inheritance\bin\Debug\net8.0\Inheritance.exe
+F:\New folder\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+F:\New folder\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+F:\New folder\Inheritance\bin\Debug\net8.0\Inheritance.dll
+F:\New folder\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.dll
+F:\New folder\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+F:\New folder\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+F:\New folder\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll

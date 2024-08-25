@@ -1,0 +1,15 @@
+F:\New folder\Base Class Display Method\bin\Debug\net8.0\Base Class Display Method.exe
+F:\New folder\Base Class Display Method\bin\Debug\net8.0\Base Class Display Method.deps.json
+F:\New folder\Base Class Display Method\bin\Debug\net8.0\Base Class Display Method.runtimeconfig.json
+F:\New folder\Base Class Display Method\bin\Debug\net8.0\Base Class Display Method.dll
+F:\New folder\Base Class Display Method\bin\Debug\net8.0\Base Class Display Method.pdb
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.AssemblyInfoInputs.cache
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.AssemblyInfo.cs
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.csproj.CoreCompileInputs.cache
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.sourcelink.json
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.dll
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\refint\Base Class Display Method.dll
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.pdb
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\Base Class Display Method.genruntimeconfig.cache
+F:\New folder\Base Class Display Method\obj\Debug\net8.0\ref\Base Class Display Method.dll
