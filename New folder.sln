@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overriding", "Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base Class Display Method", "Base Class Display Method\Base Class Display Method.csproj", "{1B3A545C-7D9B-40AB-84A4-3B6B329352B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex Number", "Complex Number\Complex Number.csproj", "{6187758F-6848-476C-BDB5-B47E7AEB06FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{1B3A545C-7D9B-40AB-84A4-3B6B329352B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B3A545C-7D9B-40AB-84A4-3B6B329352B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B3A545C-7D9B-40AB-84A4-3B6B329352B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6187758F-6848-476C-BDB5-B47E7AEB06FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6187758F-6848-476C-BDB5-B47E7AEB06FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6187758F-6848-476C-BDB5-B47E7AEB06FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6187758F-6848-476C-BDB5-B47E7AEB06FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
